@@ -10,6 +10,9 @@ This project calculates the mean value of a predefined set of numerical data. It
 Although simple, it demonstrates clean logic, modularity, and clarity — all essential for foundational programming.
 
 📁 Project Structure
+  /project-folder
+  │── index.html
+  │── script.js  
 
 
 🧠 How It Works
@@ -42,7 +45,7 @@ If you prefer running the script directly:
 • 	Clean separation of HTML and JS
 
 🔧 Possible Extensions
-If you want to expand this project later, here are ideas:
+to expand this project later, here are ideas:
 • 	Accept user input instead of hard‑coded values
 • 	Display results on the webpage instead of the console
 • 	Add median and mode calculations
